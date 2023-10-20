@@ -1,5 +1,3 @@
-node_modules/
-build/
 npm-debug.log
 .eslintcache
-*lock.json
+package-lock.json
